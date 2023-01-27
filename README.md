@@ -8,6 +8,6 @@
 
 ![Other](zad2s2.png)
 
-## Screen konsoli
+## Screen informacji środowiska
 
 ![CLI](zad2s3.png)
